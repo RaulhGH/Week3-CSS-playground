@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10+Charted&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body{
+  background-color: rgb(217, 219, 215);
+}
+.header{
+    font-family: "Open Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+      font-variation-settings:
+        "wdth" 100;
+  text-align: center;
+}
+
+.main{
+  border: 2px solid gray;
+  width: 75%;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.main div{
+border: 3px solid;
+width: 200px;
+height: 200px;
+border-radius: 50%;
+margin: 0 auto;
+}
+
+#green{
+border-color: green;
+}
+
+#yellow{
+  border-color: yellow;
+}
+#red{
+  border-color: red;
+}
+.footer{
+    font-family: "Jersey 10 Charted", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      text-align: center;
+margin: 5rem 0 3rem ;
+    
+}
